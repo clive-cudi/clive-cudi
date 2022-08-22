@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Clive</h1>
 <h3 align="center">A developer based in Nairobi, Kenya.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clive-cudi&label=Profile%20views&color=0e75b6&style=flat" alt="clive-cudi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=clive-cudi&label=Profile%20views&color=0e75b6&style=flat" alt="clive-cudi" /> </p> -->
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and **Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://clive.surge.sh](https://clive.surge.sh)
 
