@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust** and **Blockchain Development**
 
-- 👨‍💻 All of my projects are available at [https://clive.surge.sh](https://clive.surge.sh)
+- 👨‍💻 Have a look at my portfolio website: [https://clive.surge.sh](https://clive.surge.sh) { **🚧 work in progress 🚧** }
 
 - 💬 Lets talk about **Javascript, Typescript, Frontend, Backend, Microfrontends, Blockchain, NodeJS, Bun or anything fun related to tech...**
 
