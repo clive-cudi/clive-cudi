@@ -28,16 +28,23 @@
     &nbsp;
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clive-cudi&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="clive-cudi" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=clive-cudi&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="clive-cudi" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/clive flavius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clive flavius" height="30" width="40" /></a>
 <a href="https://instagram.com/_c.u.d.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_c.u.d.i" height="30" width="40" /></a>
 </p>
+
+<p>
+    &nbsp;
+</p>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clive-cudi&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="clive-cudi" />
+</p>
+
+
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=clive-cudi&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="clive-cudi" />
+</p>
+
