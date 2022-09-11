@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clive</h1>
 <h3 align="center">A developer based in Nairobi, Kenya.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clive-cudi&label=Profile%20views&color=0e75b6&style=flat" alt="clive-cudi" /> </p>
 
 - 🌱 I’m currently learning **Rust** and **Blockchain Development**
 
@@ -14,6 +13,9 @@
 - 📄 Know about my experiences [Download my resume](https://clives-portfolio-photos.s3.amazonaws.com/assets/imgs/docs/clive_flavius_resume_v3.pdf)
 
 - ⚡ Fun fact **I live in the dark...No bugs there. At least I can't see 'em.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clive-cudi&label=Profile%20views&color=0e75b6&style=flat" alt="clive-cudi" /> </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
