@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I live in the dark...No bugs there. At least I can't see 'em.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clive-cudi&label=Profile%20views&color=0e75b6&style=flat" alt="clive-cudi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=clive-cudi&label=Profile%20views&color=0e75b6&style=flat" alt="clive-cudi" /> </p> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
