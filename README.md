@@ -40,7 +40,7 @@
     &nbsp;
 </p>
 
-<!-- <p>
+<p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clive-cudi&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="clive-cudi" />
 </p>
 
@@ -48,5 +48,5 @@
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=clive-cudi&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="clive-cudi" />
-</p> -->
+</p>
 
