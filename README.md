@@ -10,7 +10,7 @@
 
 - 📫 How to reach me [**clivemaina41@gmail.com**](mailto:clivemaina41@gmail.com)
 
-- 📄 Know about my experiences [Download my resume](https://clives-portfolio-photos.s3.amazonaws.com/assets/imgs/docs/clive_flavius_resume_v3.pdf)
+- 📄 Know about my experiences [Download my resume](https://clives-portfolio-photos.s3.amazonaws.com/assets/imgs/docs/clive_flavius_resume_v4_2023.pdf)
 
 - ⚡ Fun fact **I live in the dark...No bugs there. At least I can't see 'em.**
 
