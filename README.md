@@ -2,7 +2,7 @@
 <h3 align="center">A developer based in Nairobi, Kenya.</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Rust** and **Blockchain Development**<br>
+- 🌱 I’m currently learning **Rust** <br>
 - 👨‍💻 Have a look at my portfolio website: [https://clive.surge.sh](https://clive.surge.sh) { **🚧 work in progress 🚧** }<br>
 - 💬 Lets talk about **Javascript, Typescript, Frontend, Backend, Microfrontends, NodeJS, Bun, Linux or anything fun related to tech...**<br>
 - 📫 How to reach me [**clivemaina41@gmail.com**](mailto:clivemaina41@gmail.com)<br>
