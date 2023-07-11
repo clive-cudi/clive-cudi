@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clive</h1>
-<h3 align="center">A developer based in Nairobi, Kenya.</h3>
+<h3 align="center">SWE</h3>
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Rust** <br>
