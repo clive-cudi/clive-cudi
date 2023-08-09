@@ -87,4 +87,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=clive-cudi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![spotify_last_played](https://spotify-recently-played-readme.vercel.app/api?user=0weqtoe9ft8ft9yxobf38t1z6)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
