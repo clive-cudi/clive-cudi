@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Rust** <br>
-- 👨‍💻 Have a look at my portfolio website: [https://clive.surge.sh](https://clive.surge.sh) { **🚧 work in progress 🚧** }<br>
+- 👨‍💻 Have a look at my portfolio website: [https://clive.surge.sh](https://clive.surge.sh) { **🚧** }<br>
 - 💬 Lets talk about **Javascript, Typescript, Frontend, Backend, Microfrontends, NodeJS, Bun, Linux or anything fun related to tech...**<br>
 - 📫 How to reach me [**clivemaina41@gmail.com**](mailto:clivemaina41@gmail.com)<br>
 - 📄 Know about my experiences [Download my resume](https://clives-portfolio-photos.s3.amazonaws.com/assets/imgs/docs/clive_flavius_resume_v4_2023.pdf)<br>
