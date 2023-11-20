@@ -6,7 +6,7 @@
 - 👨‍💻 Have a look at my portfolio website: [https://clive.surge.sh](https://clive.surge.sh) { **🚧** }<br>
 - 💬 Lets talk about **Javascript, Typescript, Frontend, Backend, NodeJS, Bun, Linux or anything fun related to tech...**<br>
 - 📫 How to reach me [**clivemaina41@gmail.com**](mailto:clivemaina41@gmail.com)<br>
-- 📄 Know about my experiences [Download my resume](https://clives-portfolio-photos.s3.amazonaws.com/assets/imgs/docs/clive_flavius_resume_v4_2023.pdf)<br>
+- 📄 Know about my experiences [Download my resume](https://clives-portfolio-photos.s3.amazonaws.com/assets/imgs/docs/clive_flavius_resume_v5_2023.pdf)<br>
 - ⚡ Fun fact **I live in the dark...No bugs there. At least I can't see 'em.**
 <!-- - I love linux -->
 
